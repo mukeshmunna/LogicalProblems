@@ -26,6 +26,9 @@ namespace LogicalProblems
                 case 5:
                     Coupon.GetCoupon();
                     break;
+                case 6:
+                    Stopwatchs.GetTime();
+                    break;
                 default:
                     break;
 
